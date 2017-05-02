@@ -1,0 +1,41 @@
+/*
+div.login {
+    height: 200px;
+    width: 400px;
+    
+
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-top: -10px;
+    margin-left: -100px;
+}
+*/
+
+.cen {
+    text-align: center;
+    /*display: inline-block*/
+     position: relative;
+     margin: auto;
+}
+
+.stack {
+     float:left;
+     position: relative;
+     
+}
+.mid {
+     float:center;
+     position: relative; 
+     
+     
+}
+.nextto{
+     float:right;
+     position: relative;
+ 
+}
+.image {
+    position: absolute;
+    
+}
